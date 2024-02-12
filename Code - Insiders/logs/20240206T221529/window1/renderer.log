@@ -1,0 +1,8 @@
+2024-02-06 22:15:30.377 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 22:15:30.388 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 22:15:30.853 [info] Started local extension host with pid 53062.
+2024-02-06 22:15:31.089 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.091 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:33.528 [info] [perf] Render performance baseline is 41ms
+2024-02-06 22:17:53.631 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/usr/share/applications/google-chrome.desktop' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/applications/google-chrome.desktop') file:///usr/share/applications/google-chrome.desktop
+2024-02-06 22:18:06.828 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/usr/share/applications/google-chrome.desktop' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/applications/google-chrome.desktop') file:///usr/share/applications/google-chrome.desktop

@@ -1,0 +1,457 @@
+2024-02-07 13:20:44.344 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.349 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.354 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-07 13:20:44.359 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.361 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.380 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.380 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.382 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.384 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.453 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.454 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.679 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.681 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.725 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.728 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.735 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.736 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.766 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.767 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.884 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:44.886 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:44.997 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:45.000 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:45.103 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:45.105 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:45.208 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:45.209 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:45.312 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:45.313 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:46.336 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:46.337 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:46.461 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:46.463 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:46.482 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:46.483 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:46.518 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:46.520 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:20:47.090 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:20:47.093 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:25:46.619 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:25:46.623 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:03.779 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:03.780 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:03.859 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:03.860 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:03.942 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:03.943 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:05.340 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-02-07 13:28:05.340 [info] Getting Manifest... 13xforever.language-x86-64-assembly
+2024-02-07 13:28:05.341 [info] Getting Manifest... digitalbrainstem.javascript-ejs-support
+2024-02-07 13:28:05.341 [info] Getting Manifest... pixl-garden.bongocat
+2024-02-07 13:28:05.341 [info] Getting Manifest... leetcode.vscode-leetcode
+2024-02-07 13:28:05.342 [info] Getting Manifest... gruntfuggly.todo-tree
+2024-02-07 13:28:05.342 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2024-02-07 13:28:05.343 [info] Getting Manifest... tomoki1207.pdf
+2024-02-07 13:28:05.343 [info] Getting Manifest... ttoowa.in-your-face-incredible
+2024-02-07 13:28:05.343 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2024-02-07 13:28:05.344 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-02-07 13:28:05.344 [info] Getting Manifest... ms-toolsai.jupyter
+2024-02-07 13:28:05.345 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2024-02-07 13:28:05.345 [info] Getting Manifest... twxs.cmake
+2024-02-07 13:28:05.345 [info] Getting Manifest... thenuprojectcontributors.vscode-nushell-lang
+2024-02-07 13:28:05.346 [info] Getting Manifest... shahilkumar.docxreader
+2024-02-07 13:28:05.346 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2024-02-07 13:28:05.347 [info] Getting Manifest... ms-python.debugpy
+2024-02-07 13:28:05.347 [info] Getting Manifest... wmaurer.change-case
+2024-02-07 13:28:05.347 [info] Getting Manifest... ms-python.python
+2024-02-07 13:28:05.348 [info] Getting Manifest... zhuangtongfa.material-theme
+2024-02-07 13:28:05.349 [info] Getting Manifest... icrawl.discord-vscode
+2024-02-07 13:28:05.349 [info] Getting Manifest... mehyaa.workspace-storage-cleanup
+2024-02-07 13:28:05.349 [info] Getting Manifest... vscjava.vscode-java-debug
+2024-02-07 13:28:05.350 [info] Getting Manifest... vscjava.vscode-java-dependency
+2024-02-07 13:28:05.350 [info] Getting Manifest... redhat.java
+2024-02-07 13:28:05.351 [info] Getting Manifest... vscjava.vscode-maven
+2024-02-07 13:28:05.351 [info] Getting Manifest... vscjava.vscode-java-pack
+2024-02-07 13:28:05.351 [info] Getting Manifest... vsciot-vscode.vscode-arduino
+2024-02-07 13:28:05.352 [info] Getting Manifest... ms-vscode.vscode-serial-monitor
+2024-02-07 13:28:05.352 [info] Getting Manifest... vscjava.vscode-java-test
+2024-02-07 13:28:07.869 [info] Installing extension: 13xforever.language-x86-64-assembly
+2024-02-07 13:28:07.869 [info] Installing extension: digitalbrainstem.javascript-ejs-support
+2024-02-07 13:28:07.869 [info] Installing extension: leetcode.vscode-leetcode
+2024-02-07 13:28:07.869 [info] Installing extension: gruntfuggly.todo-tree
+2024-02-07 13:28:07.869 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2024-02-07 13:28:07.869 [info] Installing extension: ms-toolsai.jupyter-keymap
+2024-02-07 13:28:07.869 [info] Installing extension: ms-toolsai.jupyter-renderers
+2024-02-07 13:28:07.869 [info] Installing extension: vsciot-vscode.vscode-arduino
+2024-02-07 13:28:07.869 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2024-02-07 13:28:07.869 [info] Installing extension: ms-toolsai.jupyter
+2024-02-07 13:28:07.869 [info] Installing extension: zhuangtongfa.material-theme
+2024-02-07 13:28:07.869 [info] Installing extension: wmaurer.change-case
+2024-02-07 13:28:07.870 [info] Installing extension: ttoowa.in-your-face-incredible
+2024-02-07 13:28:07.870 [info] Installing extension: vscjava.vscode-java-debug
+2024-02-07 13:28:07.870 [info] Installing extension: ms-python.debugpy
+2024-02-07 13:28:07.870 [info] Installing extension: mechatroner.rainbow-csv
+2024-02-07 13:28:07.870 [info] Installing extension: mehyaa.workspace-storage-cleanup
+2024-02-07 13:28:07.870 [info] Installing extension: shahilkumar.docxreader
+2024-02-07 13:28:07.870 [info] Installing extension: vscjava.vscode-java-test
+2024-02-07 13:28:07.870 [info] Installing extension: vscjava.vscode-java-pack
+2024-02-07 13:28:07.870 [info] Installing extension: tomoki1207.pdf
+2024-02-07 13:28:07.870 [info] Installing extension: vscjava.vscode-java-dependency
+2024-02-07 13:28:07.870 [info] Installing extension: pixl-garden.bongocat
+2024-02-07 13:28:07.870 [info] Installing extension: shd101wyy.markdown-preview-enhanced
+2024-02-07 13:28:07.871 [info] Installing extension: twxs.cmake
+2024-02-07 13:28:07.871 [info] Installing extension: ms-python.python
+2024-02-07 13:28:07.871 [info] Installing extension: thenuprojectcontributors.vscode-nushell-lang
+2024-02-07 13:28:07.871 [info] Installing extension: ms-vscode.vscode-serial-monitor
+2024-02-07 13:28:07.871 [info] Installing extension: vscjava.vscode-maven
+2024-02-07 13:28:07.871 [info] Installing extension: redhat.java
+2024-02-07 13:28:07.871 [info] Installing extension: icrawl.discord-vscode
+2024-02-07 13:28:07.871 [info] Installing the extension without checking dependencies and pack 13xforever.language-x86-64-assembly
+2024-02-07 13:28:07.871 [info] Installing the extension without checking dependencies and pack digitalbrainstem.javascript-ejs-support
+2024-02-07 13:28:07.871 [info] Installing the extension without checking dependencies and pack leetcode.vscode-leetcode
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack gruntfuggly.todo-tree
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack vsciot-vscode.vscode-arduino
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack zhuangtongfa.material-theme
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack wmaurer.change-case
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack ttoowa.in-your-face-incredible
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2024-02-07 13:28:07.872 [info] Installing the extension without checking dependencies and pack mechatroner.rainbow-csv
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack mehyaa.workspace-storage-cleanup
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack shahilkumar.docxreader
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack tomoki1207.pdf
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack pixl-garden.bongocat
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack shd101wyy.markdown-preview-enhanced
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack twxs.cmake
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack ms-python.python
+2024-02-07 13:28:07.873 [info] Installing the extension without checking dependencies and pack thenuprojectcontributors.vscode-nushell-lang
+2024-02-07 13:28:07.874 [info] Installing the extension without checking dependencies and pack ms-vscode.vscode-serial-monitor
+2024-02-07 13:28:07.874 [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+2024-02-07 13:28:07.874 [info] Installing the extension without checking dependencies and pack redhat.java
+2024-02-07 13:28:07.874 [info] Installing the extension without checking dependencies and pack icrawl.discord-vscode
+2024-02-07 13:28:08.799 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:08.801 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:08.835 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:08.837 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:08.873 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:08.875 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:08.909 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:08.912 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:08.947 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:08.949 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:08.983 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:08.985 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.022 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.025 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.059 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.061 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.095 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.097 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.130 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.132 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.167 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.169 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.201 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.202 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.236 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.237 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.271 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.272 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.305 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.307 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.341 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.343 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.376 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.380 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.412 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.416 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.449 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.451 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.484 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.487 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.521 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.523 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.556 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.557 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.596 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.598 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.648 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.651 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.687 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.692 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.724 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.728 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.761 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.762 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.794 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.798 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.826 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.830 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.850 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.851 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:09.869 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 13:28:09.871 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-07 13:28:10.250 [warning] Extension signature verification failed with error 'UnknownError': mehyaa.workspace-storage-cleanup
+2024-02-07 13:28:10.280 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/mehyaa.workspace-storage-cleanup-1.1.5: mehyaa.workspace-storage-cleanup
+2024-02-07 13:28:10.284 [info] Renamed to /home/btngana/.vscode-insiders/extensions/mehyaa.workspace-storage-cleanup-1.1.5
+2024-02-07 13:28:10.286 [info] Extracting extension completed. mehyaa.workspace-storage-cleanup
+2024-02-07 13:28:10.384 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:10.807 [warning] Extension signature verification failed with error 'UnknownError': pixl-garden.bongocat
+2024-02-07 13:28:10.815 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/pixl-garden.bongocat-0.0.1: pixl-garden.bongocat
+2024-02-07 13:28:10.819 [info] Renamed to /home/btngana/.vscode-insiders/extensions/pixl-garden.bongocat-0.0.1
+2024-02-07 13:28:10.820 [info] Extracting extension completed. pixl-garden.bongocat
+2024-02-07 13:28:10.889 [warning] Extension signature verification failed with error 'UnknownError': wmaurer.change-case
+2024-02-07 13:28:10.902 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:10.971 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/wmaurer.change-case-1.0.0: wmaurer.change-case
+2024-02-07 13:28:10.976 [info] Renamed to /home/btngana/.vscode-insiders/extensions/wmaurer.change-case-1.0.0
+2024-02-07 13:28:10.977 [info] Extracting extension completed. wmaurer.change-case
+2024-02-07 13:28:11.618 [warning] Extension signature verification failed with error 'UnknownError': gruntfuggly.todo-tree
+2024-02-07 13:28:11.673 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/gruntfuggly.todo-tree-0.0.226: gruntfuggly.todo-tree
+2024-02-07 13:28:11.677 [info] Renamed to /home/btngana/.vscode-insiders/extensions/gruntfuggly.todo-tree-0.0.226
+2024-02-07 13:28:11.679 [info] Extracting extension completed. gruntfuggly.todo-tree
+2024-02-07 13:28:11.759 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:12.053 [warning] Extension signature verification failed with error 'UnknownError': digitalbrainstem.javascript-ejs-support
+2024-02-07 13:28:12.077 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/digitalbrainstem.javascript-ejs-support-1.3.3: digitalbrainstem.javascript-ejs-support
+2024-02-07 13:28:12.084 [info] Renamed to /home/btngana/.vscode-insiders/extensions/digitalbrainstem.javascript-ejs-support-1.3.3
+2024-02-07 13:28:12.087 [info] Extracting extension completed. digitalbrainstem.javascript-ejs-support
+2024-02-07 13:28:12.171 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:12.307 [warning] Extension signature verification failed with error 'UnknownError': zhuangtongfa.material-theme
+2024-02-07 13:28:12.395 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/zhuangtongfa.material-theme-3.16.2: zhuangtongfa.material-theme
+2024-02-07 13:28:12.400 [info] Renamed to /home/btngana/.vscode-insiders/extensions/zhuangtongfa.material-theme-3.16.2
+2024-02-07 13:28:12.403 [info] Extracting extension completed. zhuangtongfa.material-theme
+2024-02-07 13:28:12.501 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:12.503 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-cell-tags
+2024-02-07 13:28:12.535 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8: ms-toolsai.vscode-jupyter-cell-tags
+2024-02-07 13:28:12.540 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2024-02-07 13:28:12.541 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2024-02-07 13:28:14.072 [warning] Extension signature verification failed with error 'UnknownError': mechatroner.rainbow-csv
+2024-02-07 13:28:14.209 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/mechatroner.rainbow-csv-3.11.0: mechatroner.rainbow-csv
+2024-02-07 13:28:14.216 [info] Renamed to /home/btngana/.vscode-insiders/extensions/mechatroner.rainbow-csv-3.11.0
+2024-02-07 13:28:14.219 [info] Extracting extension completed. mechatroner.rainbow-csv
+2024-02-07 13:28:14.256 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:14.580 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-keymap
+2024-02-07 13:28:14.601 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-slideshow
+2024-02-07 13:28:14.617 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2024-02-07 13:28:14.622 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2024-02-07 13:28:14.625 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2024-02-07 13:28:14.637 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5: ms-toolsai.vscode-jupyter-slideshow
+2024-02-07 13:28:14.642 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2024-02-07 13:28:14.643 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2024-02-07 13:28:14.711 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:16.024 [warning] Extension signature verification failed with error 'UnknownError': icrawl.discord-vscode
+2024-02-07 13:28:16.034 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/icrawl.discord-vscode-5.8.0: icrawl.discord-vscode
+2024-02-07 13:28:16.039 [info] Renamed to /home/btngana/.vscode-insiders/extensions/icrawl.discord-vscode-5.8.0
+2024-02-07 13:28:16.041 [info] Extracting extension completed. icrawl.discord-vscode
+2024-02-07 13:28:16.124 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:16.711 [warning] Extension signature verification failed with error 'UnknownError': 13xforever.language-x86-64-assembly
+2024-02-07 13:28:16.717 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/13xforever.language-x86-64-assembly-3.1.4: 13xforever.language-x86-64-assembly
+2024-02-07 13:28:16.721 [info] Renamed to /home/btngana/.vscode-insiders/extensions/13xforever.language-x86-64-assembly-3.1.4
+2024-02-07 13:28:16.722 [info] Extracting extension completed. 13xforever.language-x86-64-assembly
+2024-02-07 13:28:16.802 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:20.684 [warning] Extension signature verification failed with error 'UnknownError': tomoki1207.pdf
+2024-02-07 13:28:20.880 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/tomoki1207.pdf-1.2.2: tomoki1207.pdf
+2024-02-07 13:28:20.886 [info] Renamed to /home/btngana/.vscode-insiders/extensions/tomoki1207.pdf-1.2.2
+2024-02-07 13:28:20.887 [info] Extracting extension completed. tomoki1207.pdf
+2024-02-07 13:28:20.973 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:22.087 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-serial-monitor
+2024-02-07 13:28:22.393 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-vscode.vscode-serial-monitor-0.11.0: ms-vscode.vscode-serial-monitor
+2024-02-07 13:28:22.400 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-vscode.vscode-serial-monitor-0.11.0
+2024-02-07 13:28:22.402 [info] Extracting extension completed. ms-vscode.vscode-serial-monitor
+2024-02-07 13:28:22.486 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:22.942 [warning] Extension signature verification failed with error 'UnknownError': thenuprojectcontributors.vscode-nushell-lang
+2024-02-07 13:28:23.025 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/thenuprojectcontributors.vscode-nushell-lang-1.8.0: thenuprojectcontributors.vscode-nushell-lang
+2024-02-07 13:28:23.029 [info] Renamed to /home/btngana/.vscode-insiders/extensions/thenuprojectcontributors.vscode-nushell-lang-1.8.0
+2024-02-07 13:28:23.031 [info] Extracting extension completed. thenuprojectcontributors.vscode-nushell-lang
+2024-02-07 13:28:23.112 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:27.845 [warning] Extension signature verification failed with error 'UnknownError': twxs.cmake
+2024-02-07 13:28:27.989 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/twxs.cmake-0.0.17: twxs.cmake
+2024-02-07 13:28:27.994 [info] Renamed to /home/btngana/.vscode-insiders/extensions/twxs.cmake-0.0.17
+2024-02-07 13:28:27.995 [info] Extracting extension completed. twxs.cmake
+2024-02-07 13:28:28.025 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:32.475 [warning] Extension signature verification failed with error 'UnknownError': vscjava.vscode-java-dependency
+2024-02-07 13:28:32.524 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-dependency-0.23.4: vscjava.vscode-java-dependency
+2024-02-07 13:28:32.531 [info] Renamed to /home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-dependency-0.23.4
+2024-02-07 13:28:32.535 [info] Extracting extension completed. vscjava.vscode-java-dependency
+2024-02-07 13:28:32.628 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:33.096 [warning] Extension signature verification failed with error 'UnknownError': leetcode.vscode-leetcode
+2024-02-07 13:28:33.201 [warning] Extension signature verification failed with error 'UnknownError': shahilkumar.docxreader
+2024-02-07 13:28:34.065 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/shahilkumar.docxreader-1.1.3: shahilkumar.docxreader
+2024-02-07 13:28:34.071 [info] Renamed to /home/btngana/.vscode-insiders/extensions/shahilkumar.docxreader-1.1.3
+2024-02-07 13:28:34.072 [info] Extracting extension completed. shahilkumar.docxreader
+2024-02-07 13:28:34.153 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:35.115 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/leetcode.vscode-leetcode-0.18.1: leetcode.vscode-leetcode
+2024-02-07 13:28:35.126 [info] Renamed to /home/btngana/.vscode-insiders/extensions/leetcode.vscode-leetcode-0.18.1
+2024-02-07 13:28:35.131 [info] Extracting extension completed. leetcode.vscode-leetcode
+2024-02-07 13:28:35.230 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:42.980 [warning] Extension signature verification failed with error 'UnknownError': ms-python.debugpy
+2024-02-07 13:28:43.384 [warning] Extension signature verification failed with error 'UnknownError': vscjava.vscode-java-test
+2024-02-07 13:28:43.456 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-test-0.40.1: vscjava.vscode-java-test
+2024-02-07 13:28:43.461 [info] Renamed to /home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-test-0.40.1
+2024-02-07 13:28:43.463 [info] Extracting extension completed. vscjava.vscode-java-test
+2024-02-07 13:28:43.547 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:43.584 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-python.debugpy-2024.1.10371006-linux-x64: ms-python.debugpy
+2024-02-07 13:28:43.589 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-python.debugpy-2024.1.10371006-linux-x64
+2024-02-07 13:28:43.591 [info] Extracting extension completed. ms-python.debugpy
+2024-02-07 13:28:43.602 [info] Marked extension as uninstalled ms-python.debugpy-2024.0.0-linux-x64
+2024-02-07 13:28:44.789 [warning] Extension signature verification failed with error 'UnknownError': vsciot-vscode.vscode-arduino
+2024-02-07 13:28:45.065 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/vsciot-vscode.vscode-arduino-0.6.0-linux-x64: vsciot-vscode.vscode-arduino
+2024-02-07 13:28:45.070 [info] Renamed to /home/btngana/.vscode-insiders/extensions/vsciot-vscode.vscode-arduino-0.6.0-linux-x64
+2024-02-07 13:28:45.071 [info] Extracting extension completed. vsciot-vscode.vscode-arduino
+2024-02-07 13:28:45.126 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-renderers
+2024-02-07 13:28:45.150 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:45.204 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2024-02-07 13:28:45.321 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-toolsai.jupyter-renderers-1.0.17: ms-toolsai.jupyter-renderers
+2024-02-07 13:28:45.330 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-toolsai.jupyter-renderers-1.0.17
+2024-02-07 13:28:45.332 [warning] Extension signature verification failed with error 'UnknownError': vscjava.vscode-java-pack
+2024-02-07 13:28:45.333 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2024-02-07 13:28:45.384 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-02-07 13:28:45.425 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-pack-0.25.15: vscjava.vscode-java-pack
+2024-02-07 13:28:45.429 [info] Renamed to /home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-pack-0.25.15
+2024-02-07 13:28:45.430 [info] Extracting extension completed. vscjava.vscode-java-pack
+2024-02-07 13:28:45.444 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-toolsai.jupyter-2024.2.2024020701-linux-x64: ms-toolsai.jupyter
+2024-02-07 13:28:45.449 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-toolsai.jupyter-2024.2.2024020701-linux-x64
+2024-02-07 13:28:45.452 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-02-07 13:28:45.834 [warning] Extension signature verification failed with error 'UnknownError': vscjava.vscode-java-debug
+2024-02-07 13:28:45.905 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-debug-0.56.0: vscjava.vscode-java-debug
+2024-02-07 13:28:45.910 [info] Renamed to /home/btngana/.vscode-insiders/extensions/vscjava.vscode-java-debug-0.56.0
+2024-02-07 13:28:45.915 [info] Extracting extension completed. vscjava.vscode-java-debug
+2024-02-07 13:28:46.003 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Q.sb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)

@@ -1,0 +1,26 @@
+2024-02-07 13:29:25.404 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-02-07 13:29:25.405 [info] Auto Sync is enabled.
+2024-02-07 13:29:25.405 [info] Auto Sync: Suspended until auth token is available.
+2024-02-07 13:29:25.914 [info] Deleting non existing profile from backup /home/btngana/.config/Code - Insiders/User/sync/extensions
+2024-02-07 13:29:26.394 [info] Deleting non existing profile from backup /home/btngana/.config/Code - Insiders/User/sync/globalState
+2024-02-07 13:29:26.468 [info] Deleting non existing profile from backup /home/btngana/.config/Code - Insiders/User/sync/keybindings
+2024-02-07 13:29:26.497 [info] Auto Sync: Triggered by Interval
+2024-02-07 13:29:26.497 [info] Sync started.
+2024-02-07 13:29:26.511 [info] Deleting non existing profile from backup /home/btngana/.config/Code - Insiders/User/sync/settings
+2024-02-07 13:29:26.534 [info] Deleting non existing profile from backup /home/btngana/.config/Code - Insiders/User/sync/snippets
+2024-02-07 13:29:26.535 [info] Deleting non existing profile from backup /home/btngana/.config/Code - Insiders/User/sync/tasks
+2024-02-07 13:29:26.896 [info] Settings: Last sync resource does not exist locally.
+2024-02-07 13:29:27.100 [info] Settings: No changes found during synchronizing settings.
+2024-02-07 13:29:27.103 [info] Keybindings: Last sync resource does not exist locally.
+2024-02-07 13:29:27.443 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-07 13:29:27.445 [info] Snippets: Last sync resource does not exist locally.
+2024-02-07 13:29:27.540 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-07 13:29:27.542 [info] Tasks: Last sync resource does not exist locally.
+2024-02-07 13:29:27.647 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-07 13:29:27.694 [info] GlobalState: Last sync resource does not exist locally.
+2024-02-07 13:29:29.061 [info] GlobalState: Updated remote ui state. Added: workbench.panel.markers.hidden,workbench.panel.output.hidden,terminal.hidden,workbench.explorer.views.state.hidden,workbench.scm.views.state.hidden,workbench.view.search.state.hidden,workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels,workbench.telemetryOptOutShown,~remote.forwardedPortsContainer.hidden,memento/gettingStartedService,workbench.statusbar.hidden,themeUpdatedNotificationShown,workbench.panel.alignment,colorThemeData,workbench.view.debug.state.hidden,workbench.panel.repl.hidden,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount,workbench.welcomePage.walkthroughMetadata,cpp.1.editedCount,cpp.1.editedDate,commandPalette.mru.cache,commandPalette.mru.counter,snippets.usageTimestamps,cpp.1.isCandidate,cpp.1.skipVersion,expandSuggestionDocs,memento/workbench.editor.keybindings,fileBasedRecommendations/promptedRecommendations,workbench.view.extension.todo-tree-container.state.hidden,workbench.welcomePage.hiddenCategories,fileBasedRecommendations/promptedFileExtensions,menu.hiddenCommands,recently.opened,workbench.view.remote.state.hidden,workbench.view.extensions.state.hidden,workbench.view.extension.test.state.hidden,terminal.integrated.showTerminalConfigPrompt,ces/skipSurvey,workbench.view.extension.PowerShell.state.hidden,nps/lastSessionDate,nps/sessionCount,workbench.view.extension.sshfs.state.hidden,workbench.view.sync.state.hidden,tabs-list-width-horizontal,nps/isCandidate,nps/skipVersion,workbench.view.extension.sqltoolsActivityBarContainer.state.hidden,workbench.view.extension.sqltoolsPanelContainer.state.hidden,remote.explorerType,java.2.editedCount,java.2.editedDate,javascript.1.editedCount,javascript.1.editedDate,memento/notebookGettingStarted2,workbench.view.extension.jupyter-variables.state.hidden,workbench.view.extension.leetcode.state.hidden,workbench.view.extension.vscode-serial-monitor-tools.state.hidden,workbench.activityBar.location,csharp.1.editedCount,csharp.1.editedDate,github-AhmedAmrNabil,workbench.panel.chatSidebar.hidden,workbench.view.extension.cmake-view.state.hidden,workbench.view.extension.custom-activitybar.state.hidden,workbench.view.extension.references-view.state.hidden.
+2024-02-07 13:29:29.068 [info] GlobalState: Updated last synchronized ui state
+2024-02-07 13:29:29.074 [info] Extensions: Last sync resource does not exist locally.
+2024-02-07 13:29:29.178 [info] Request failed {"url":"https://vscode-sync.trafficmanager.net/v1/resource/extensions/93fe4f8c-9259-4eb5-87c7-70759316d46e","status":404,"execution-id":"10819cbe-3209-49b7-a075-4c6ea345cb49","operation-id":"eb6a8fd3b0fc4c179372dad57f2a0ce3"} Not Found
+2024-02-07 13:29:29.179 [info] Extensions: Last sync resource does not exist remotely.
+2024-02-07 13:29:29.381 [info] Extensions: Accepting remote because it was synced before and the last sync data is not available.

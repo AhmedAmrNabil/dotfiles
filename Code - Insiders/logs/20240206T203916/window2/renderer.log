@@ -1,0 +1,17 @@
+2024-02-06 20:39:47.404 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:39:47.415 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:39:47.707 [info] Started local extension host with pid 4457.
+2024-02-06 20:39:47.877 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 20:39:47.883 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 20:39:47.925 [error] Extension 'ms-python.python' wants API proposal 'saveEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:39:50.359 [info] [perf] Render performance baseline is 27ms
+2024-02-06 20:39:53.481 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 20:39:53.499 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 20:39:55.302 [error] Unknown error while installing extension ms-python.python: Unknown: Unknown error while installing extension ms-python.python
+    at Y.installFromGallery (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:59834)
+2024-02-06 20:58:05.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:58:05.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:58:05.845 [info] Started local extension host with pid 40511.
+2024-02-06 20:58:06.004 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 20:58:06.008 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 20:58:09.004 [info] [perf] Render performance baseline is 29ms

@@ -1,0 +1,10 @@
+2024-02-06 20:39:17.391 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:39:17.402 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:39:17.675 [info] Started local extension host with pid 4110.
+2024-02-06 20:39:17.956 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 20:39:17.964 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 20:39:18.034 [error] Extension 'ms-python.python' wants API proposal 'saveEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 20:39:19.019 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/mkinitcpio.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/mkinitcpio.conf') file:///etc/mkinitcpio.conf
+2024-02-06 20:39:20.504 [info] [perf] Render performance baseline is 28ms
+2024-02-06 20:39:50.284 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2024-02-06 20:39:52.030 [warning] [backup tracker] suspended, ignoring dirty change event file:///etc/mkinitcpio.conf 

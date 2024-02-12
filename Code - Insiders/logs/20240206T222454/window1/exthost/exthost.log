@@ -1,0 +1,68 @@
+2024-02-06 22:24:57.004 [info] Extension host with pid 81883 started
+2024-02-06 22:24:57.004 [info] Skipping acquiring lock for /home/btngana/.config/Code - Insiders/User/workspaceStorage/d62acd5e84ff7a295ad3f83ad9fa85d0.
+2024-02-06 22:24:57.240 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-06 22:24:57.247 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-06 22:24:57.377 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-06 22:24:57.379 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2024-02-06 22:24:57.425 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2024-02-06 22:24:57.435 [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+2024-02-06 22:24:57.607 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-06 22:24:57.666 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-06 22:24:57.798 [info] Eager extensions activated
+2024-02-06 22:24:57.819 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:57.822 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:57.838 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:57.845 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:57.876 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.228 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.292 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.312 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.341 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.417 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.453 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.464 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.469 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-02-06 22:24:58.650 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-06 22:25:01.760 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2024-02-06 22:30:49.081 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:snippets'
+2024-02-06 22:30:49.360 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-06 22:37:12.951 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-06 22:37:43.302 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-06 22:38:29.825 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-02-07 00:58:45.985 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-07 00:59:02.293 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-07 01:48:10.466 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-07 01:48:10.507 [error] Canceled: Canceled
+    at new d (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45184)
+    at f.U (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+    at Proxy.j.<computed>.T.charCodeAt.j.<computed> (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+    at s.g (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174426)
+    at s.executeCommand (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173864)
+    at g.registerCommand.description (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173188)
+    at s.h (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174965)
+    at s.g (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173957)
+    at s.executeCommand (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173864)
+    at Object.executeCommand (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21650)
+    at Object.dispose (/home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:77986)
+    at /home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:11944
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (/home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:11931)
+    at I.deactivate (/home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:79253)
+    at Object.dispose (/home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:1420)
+    at /home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:11944
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (/home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:11931)
+    at deactivate (/home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:1605)
+    at Object.dispose (/home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.625/dist/index.js:6:1680)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at m.cb (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9877)
+    at /opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7812
+    at Array.map (<anonymous>)
+    at m.Y (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7799)
+    at m.terminate (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8072)
+    at a.terminate (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+    at t (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9946)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6371)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-07 01:48:15.505 [info] Extension host with pid 81883 exiting with code 0

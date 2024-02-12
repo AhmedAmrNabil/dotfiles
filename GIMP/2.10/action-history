@@ -1,0 +1,9 @@
+# GIMP action-history
+
+(history-item "dialogs-input-devices" 1)
+(history-item "tools-ellipse-select" 0)
+(history-item "tools-eraser" 2)
+(history-item "image-new" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

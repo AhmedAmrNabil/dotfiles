@@ -1,0 +1,120 @@
+{
+  "Profiles": [
+    {
+      "Tablet": "VEIKK VK640",
+      "OutputMode": {
+        "Path": "OpenTabletDriver.Desktop.Output.LinuxArtistMode",
+        "Settings": [],
+        "Enable": true
+      },
+      "Filters": [
+        {
+          "Path": "slimy_scylla.slimy_scylla_position_smoothing_pulled_string",
+          "Settings": [
+            {
+              "Property": "string_length",
+              "Value": 35
+            },
+            {
+              "Property": "pressure_deadzone_percent",
+              "Value": null
+            },
+            {
+              "Property": "remove_tail_position_reports",
+              "Value": 1
+            },
+            {
+              "Property": "leak_smoothing_to_hover",
+              "Value": null
+            },
+            {
+              "Property": "always_apply_to_hover",
+              "Value": null
+            },
+            {
+              "Property": "never_intercept_pressure_on_off",
+              "Value": true
+            }
+          ],
+          "Enable": false
+        }
+      ],
+      "AbsoluteModeSettings": {
+        "Display": {
+          "Width": 1920.0,
+          "Height": 1080.0,
+          "X": 960.0,
+          "Y": 540.0,
+          "Rotation": 0.0
+        },
+        "Tablet": {
+          "Width": 152.4,
+          "Height": 101.6,
+          "X": 76.2,
+          "Y": 50.8,
+          "Rotation": 0.0
+        },
+        "EnableClipping": true,
+        "EnableAreaLimiting": false,
+        "LockAspectRatio": false
+      },
+      "RelativeModeSettings": {
+        "XSensitivity": 10.0,
+        "YSensitivity": 10.0,
+        "RelativeRotation": 0.0,
+        "RelativeResetDelay": "00:00:00.1000000"
+      },
+      "Bindings": {
+        "TipActivationThreshold": 0.0,
+        "TipButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+          "Settings": [
+            {
+              "Property": "Button",
+              "Value": "Left"
+            }
+          ],
+          "Enable": true
+        },
+        "EraserActivationThreshold": 0.0,
+        "EraserButton": null,
+        "PenButtons": [
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Pen Button 2"
+              }
+            ],
+            "Enable": true
+          },
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.KeyBinding",
+            "Settings": [
+              {
+                "Property": "Key",
+                "Value": "E"
+              }
+            ],
+            "Enable": true
+          }
+        ],
+        "AuxButtons": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "MouseButtons": [],
+        "MouseScrollUp": null,
+        "MouseScrollDown": null
+      }
+    }
+  ],
+  "LockUsableAreaDisplay": true,
+  "LockUsableAreaTablet": true,
+  "Tools": []
+}

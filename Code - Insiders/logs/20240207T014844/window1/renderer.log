@@ -1,0 +1,4 @@
+2024-02-07 01:48:45.144 [info] Started local extension host with pid 133423.
+2024-02-07 01:48:48.074 [info] [perf] Render performance baseline is 26ms
+2024-02-07 01:48:48.391 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-07 01:48:48.403 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.

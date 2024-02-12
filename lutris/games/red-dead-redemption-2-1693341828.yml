@@ -1,0 +1,4 @@
+game:
+  exe: /run/media/btngana/Data/Torrent/Red Dead Redemption 2/Launcher.exe
+wine:
+  version: lutris-GE-Proton8-13-x86_64

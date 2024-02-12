@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=sudo /usr/lib/vktablet/vktablet
+Icon=/usr/lib/vktablet/vktablet.png
+Type=Application
+Name=vktablet
+Terminal=false
+Categories=Application;Utility;
+Name[en_US]=VEIKK Tablet Driver 
+Name[en_CA]=VEIKK Tablet Driver
+Name[en_GB]=VEIKK Tablet Driver
+Name[zh_CN]=绘客数位板驱动程序
+Name[zh_HK]=繪客數位板驅動程式
+Name[zh_TW]=繪客數位板驅動程式

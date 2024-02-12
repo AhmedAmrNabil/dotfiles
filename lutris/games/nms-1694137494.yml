@@ -1,0 +1,7 @@
+game:
+  exe: /d/Games/No Mans Sky/Binaries/NMS.exe
+system: {}
+wine:
+  esync: false
+  fsync: false
+  version: Proton - Experimental

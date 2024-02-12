@@ -1,0 +1,87 @@
+2024-02-06 22:15:31.292 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.293 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.303 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.304 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.315 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.316 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.322 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.325 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.329 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.330 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.340 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.344 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.480 [info] Deleted uninstalled extension from disk lefd.sweetdracula-monokai /home/btngana/.vscode-insiders/extensions/lefd.sweetdracula-monokai-1.1.9
+2024-02-06 22:15:31.493 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-wsl /home/btngana/.vscode-insiders/extensions/ms-vscode-remote.remote-wsl-0.81.9
+2024-02-06 22:15:31.538 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-ssh /home/btngana/.vscode-insiders/extensions/ms-vscode-remote.remote-ssh-0.107.1
+2024-02-06 22:15:31.550 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/lefd.sweetdracula-monokai-1.1.9.30247813.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/lefd.sweetdracula-monokai-1.1.9.30247813.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 22:15:31.587 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-containers /home/btngana/.vscode-insiders/extensions/ms-vscode-remote.remote-containers-0.337.0
+2024-02-06 22:15:31.665 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.666 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.737 [info] Deleted uninstalled extension from disk wallabyjs.quokka-vscode /home/btngana/.vscode-insiders/extensions/wallabyjs.quokka-vscode-1.0.620
+2024-02-06 22:15:31.739 [info] Deleted uninstalled extension from disk ms-python.python /home/btngana/.vscode-insiders/extensions/ms-python.python-2023.22.1
+2024-02-06 22:15:31.848 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.849 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:31.956 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:31.960 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:32.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:32.133 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:32.462 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:32.463 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:32.691 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:32.700 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:32.876 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:32.879 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:32.913 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:32.923 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:32.966 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-06 22:15:33.078 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:33.078 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:33.359 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:33.360 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:33.478 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:33.480 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:33.614 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:33.617 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:33.623 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:33.625 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:34.091 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:34.094 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:35.819 [info] Getting Manifest... ms-python.python
+2024-02-06 22:15:38.758 [info] Installing extension: ms-python.python
+2024-02-06 22:15:38.838 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:38.839 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:38.902 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:38.905 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:38.975 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:15:38.977 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-06 22:15:47.755 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-02-06 22:15:49.211 [info] Extracted extension to file:///home/btngana/.vscode-insiders/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-06 22:15:49.218 [info] Renamed to /home/btngana/.vscode-insiders/extensions/ms-python.python-2024.0.1
+2024-02-06 22:15:49.221 [info] Extracting extension completed. ms-python.python
+2024-02-06 22:15:49.234 [info] Extension installed successfully: ms-python.python
+2024-02-06 22:15:49.238 [info] Marked extension as uninstalled ms-python.python-2024.0.0
+2024-02-06 22:15:49.315 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/btngana/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 22:20:33.751 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 22:20:33.753 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.

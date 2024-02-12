@@ -1,0 +1,4 @@
+game:
+  exe: /d/Games/Forza Horizon 4 Ultimate Edition/ForzaHorizon4.exe
+wine:
+  version: lutris-GE-Proton8-13-x86_64

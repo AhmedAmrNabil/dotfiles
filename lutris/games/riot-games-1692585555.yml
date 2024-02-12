@@ -1,0 +1,14 @@
+game:
+  exe: /c/Riot Games/Riot Client/RiotClientServices.exe
+system:
+  disable_compositor: false
+  disable_screen_saver: false
+  gamescope: false
+  gamescope_game_res: 1920x886
+  gamescope_output_res: 1920x1080
+  gamescope_window_mode: -f
+  reset_desktop: false
+  restore_gamma: false
+  sdl_video_fullscreen: '0'
+wine:
+  version: lutris-ge-lol-p8-12-x86_64
