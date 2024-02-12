@@ -1,7 +1,0 @@
-2024-02-07 13:20:43.509 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/d/Downloads/arch/New Text Document.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-02-07 13:20:43.810 [info] Started local extension host with pid 1474.
-2024-02-07 13:20:46.763 [info] [perf] Render performance baseline is 27ms
-2024-02-07 13:20:47.057 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
-2024-02-07 13:20:47.063 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
-2024-02-07 13:28:01.073 [info] Settings Sync: Updating due to change in sessions
-2024-02-07 13:28:01.074 [info] Settings Sync: Updated current session f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:0003BFFD062F471D/a2e9b290-62a5-407a-8db8-23a466a4e2e4

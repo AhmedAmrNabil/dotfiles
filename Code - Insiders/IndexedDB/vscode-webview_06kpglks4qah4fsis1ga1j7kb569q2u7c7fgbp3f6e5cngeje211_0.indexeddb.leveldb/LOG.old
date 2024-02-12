@@ -1,7 +1,0 @@
-2023/08/23-06:26:51.873 692 Reusing MANIFEST /home/btngana/.config/Code - Insiders/IndexedDB/vscode-webview_06kpglks4qah4fsis1ga1j7kb569q2u7c7fgbp3f6e5cngeje211_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/23-06:26:51.873 692 Recovering log #3
-2023/08/23-06:26:51.873 692 Reusing old log /home/btngana/.config/Code - Insiders/IndexedDB/vscode-webview_06kpglks4qah4fsis1ga1j7kb569q2u7c7fgbp3f6e5cngeje211_0.indexeddb.leveldb/000003.log 
-2023/08/23-06:50:04.014 693 Level-0 table #5: started
-2023/08/23-06:50:04.018 693 Level-0 table #5: 932 bytes OK
-2023/08/23-06:50:04.024 693 Delete type=0 #3
-2023/08/23-06:50:04.024 693 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

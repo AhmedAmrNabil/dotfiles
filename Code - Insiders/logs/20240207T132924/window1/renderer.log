@@ -1,5 +1,0 @@
-2024-02-07 13:29:24.900 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/d/Downloads/arch/root.x86_64/pkglist.x86_64.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-02-07 13:29:25.225 [info] Started local extension host with pid 8008.
-2024-02-07 13:29:25.428 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
-2024-02-07 13:29:25.435 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
-2024-02-07 13:29:28.130 [info] [perf] Render performance baseline is 27ms
