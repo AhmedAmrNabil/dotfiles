@@ -73,9 +73,9 @@ end
 function get_branch
   # minus symbol if there are no changes detected to tracked files
   # /dev/null prevents nonsensical errors when you are on directories not tracked by git.
-  if test (git status --untracked-files=no --porcelain 2> /dev/null | wc -l) -eq 0
+  # if test (git status 2> /dev/null | wc -l) -gt 0
     set branch_name (git branch --show-current 2> /dev/null)
-  end
+  # end
   
   if test "$branch_name" != ""
     echo "  $branch_name "
