@@ -35,7 +35,7 @@ function fish_prompt
     test $status = 0; and set retc $text_color
     echo " "
     echo -n (set_color $bg1)"░▒▓"
-    echo -n (set_color $text_color --background $bg1)"  "
+    echo -n (set_color $text_color --background $bg1)" 󰣇 "
     echo -n (set_color $bg1 --background $bg2)""
     echo -n (set_color $text_color) (prompt_pwd)" "
     echo -n (set_color $bg2 --background $bg3)""

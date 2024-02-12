@@ -1,8 +1,26 @@
 <monitors version="2">
   <configuration>
     <logicalmonitor>
+      <x>746</x>
+      <y>0</y>
+      <scale>1</scale>
+      <monitor>
+        <monitorspec>
+          <connector>HDMI-0</connector>
+          <vendor>HEC</vendor>
+          <product>HISENSE</product>
+          <serial>0x00000001</serial>
+        </monitorspec>
+        <mode>
+          <width>3840</width>
+          <height>2160</height>
+          <rate>60</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <logicalmonitor>
       <x>0</x>
-      <y>180</y>
+      <y>2340</y>
       <scale>1</scale>
       <monitor>
         <monitorspec>
@@ -20,7 +38,7 @@
     </logicalmonitor>
     <logicalmonitor>
       <x>1600</x>
-      <y>0</y>
+      <y>2160</y>
       <scale>1</scale>
       <primary>yes</primary>
       <monitor>
@@ -37,14 +55,6 @@
         </mode>
       </monitor>
     </logicalmonitor>
-    <disabled>
-      <monitorspec>
-        <connector>HDMI-0</connector>
-        <vendor>HEC</vendor>
-        <product>HISENSE</product>
-        <serial>0x00000001</serial>
-      </monitorspec>
-    </disabled>
   </configuration>
   <configuration>
     <logicalmonitor>
