@@ -1,85 +1,110 @@
-function fish_prompt
-    set -l retc "#f38ba8"
-
-    # set -l text_color "#fbf1c7"
-    # set -l icon_color "#3c3836"
-    # # set -l bg1 "#665c54"
-    # # set -l bg2 "#7c6f64"
-    # # set -l bg3 "#928374"
-    # # set -l fg1 "#bdae93"
-    # set -l bg1 "#3c3836"
-    # set -l bg2 "#504945"
-    # set -l bg3 "#665c54"
-    # set -l fg1 "#a89984"
-    # # set -l accent1 "#cc241d"
-    # set -l accent1 "#d65d0e"
-    # set -l accent2 "#d79921"  (get_user)
-
-    # set -l text_color "#ECEFF4"
-    # set -l icon_color "#2E3440"
-    # set -l bg1 "#3B4252"
-    # set -l bg2 "#434C5E"
-    # set -l bg3 "#4C566A"
-    # set -l fg1 "#86BBD8"
-    # set -l accent1 "#06969A"
-    # set -l accent2 "#33658A" 
-
-    set -l text_color "#cdd6f4"
-    set -l icon_color "#45475a"
-    set -l bg1 "#313244"
-    set -l bg2 "#45475a"
-    set -l bg3 "#585b70"
-    set -l fg1 "#f5c2e7"
-    set -l accent2 "#cba6f7"
-
-    test $status = 0; and set retc $text_color
-    echo " "
-    echo -n (set_color $bg1)"░▒▓"
-    echo -n (set_color $text_color --background $bg1)" 󰣇 "
-    echo -n (set_color $bg1 --background $bg2)""
-    echo -n (set_color $text_color) (prompt_pwd)" "
-    echo -n (set_color $bg2 --background $bg3)""
-    echo -n (set_color $text_color)(get_branch)
-    echo -n (set_color $bg3 --background $fg1)""
-    echo -n (set_color $icon_color)(get_language)
-    echo -n (set_color $fg1 --background $accent2)""
-    # echo -n (set_color $accent1 --background $accent2)""
-    echo -n (set_color $icon_color) "󱑍 "(date +%I:%M' '%p)" "
-    echo  (set_color $accent2 -b normal)""
-    set_color $retc
-    echo "❯ "
+function repaint_and_execute
+    set -g is_repainting
+    commandline -f repaint execute
 end
 
-function get_language
-  set -l fileext ""
-  for file in *.cpp
-    set -a fileext " "
-    break
-  end
-  for file in *.py
-    set -a fileext " "
-    break
-  end
-  for file in *.js
-    set -a fileext " "
-    break
-  end
-  # if test -n "$fileext"
-    # set -a fileext ""
-  # end
-  echo "$fileext"
+function repaint_only
+    set -g is_repainting
+    # commandline -r ""
+    if test "$(commandline --current-buffer)" = ""
+        commandline --f repaint execute
+        return 0
+    end
+    commandline -f repaint cancel-commandline kill-inner-line repaint-mode
+end
+
+
+
+function fish_promptd
+    if test $status -eq 0
+        set retc magenta
+    else
+        set retc red
+    end
+
+    set -l accent2 "#74c7ec"
+    echo -en \e\[0J
+    echo -en \e\[\?25h
+
+    if set -q is_repainting
+        set -e is_repainting
+        set_color magenta
+    else
+        echo ""
+        set -l out (
+        echo -n (set_color blue)(prompt_pwd)(set_color brblack)(get_branch)(set_color yellow)(get_time)
+      )
+        set -l argstring "$(set_color brblack) 󱑍 $(date +%I:%M' '%p)"
+        set -l columns (math $COLUMNS - 12 - (printf "$out" | perl -pe 's/\x1b.*?[mGKH]//g' | wc -m) )
+        echo -n $out
+        echo (printf "%-"$columns"s%s" " " "$argstring")
+        set_color $retc
+    end
+    echo -n '❯ '
+end
+
+
+function get_time
+    if test $CMD_DURATION -ge 5000
+        echo " $(math floor $CMD_DURATION / 1000)s"
+    else
+        echo ""
+    end
+
 end
 
 function get_branch
-  # minus symbol if there are no changes detected to tracked files
-  # /dev/null prevents nonsensical errors when you are on directories not tracked by git.
-  # if test (git status 2> /dev/null | wc -l) -gt 0
-    set branch_name (git branch --show-current 2> /dev/null)
-  # end
-  
-  if test "$branch_name" != ""
-    echo "  $branch_name "
-  else
-    echo ""
-  end
+    if git rev-parse 2>/dev/null
+        set -l branch (git branch --show-current)
+
+        if test "$(git status -s)" != ""
+            set branch $branch(set_color magenta)"*"
+        end
+        set -l git_unpushed_commits
+        set -l git_unpulled_commits
+
+        set -l has_upstream (command git rev-parse --abbrev-ref '@{upstream}' 2>/dev/null)
+        if test -n "$has_upstream"
+            and test "$has_upstream" != '@{upstream}'
+            command git rev-list --left-right --count 'HEAD...@{upstream}' \
+                | read --local --array git_status
+
+            if test "$git_status[1]" -gt 0 # upstream is behind local repo
+                set branch $branch(set_color cyan)" ⇡"
+            end
+            if test "$git_status[2]" -gt 0 # upstream is ahead of local repo
+                set branch $branch(set_color cyan)" ⇣"
+            end
+        end
+
+        echo " $branch"
+    else
+        echo ""
+    end
 end
+
+
+
+
+# set -l text_color "#fbf1c7"
+# set -l icon_color "#3c3836"
+# # set -l bg1 "#665c54"
+# # set -l bg2 "#7c6f64"
+# # set -l bg3 "#928374"
+# # set -l fg1 "#bdae93"
+# set -l bg1 "#3c3836"
+# set -l bg2 "#504945"
+# set -l bg3 "#665c54"
+# set -l fg1 "#a89984"
+# # set -l accent1 "#cc241d"
+# set -l accent1 "#d65d0e"
+# set -l accent2 "#d79921"  (get_user)
+
+# set -l text_color "#ECEFF4"
+# set -l icon_color "#2E3440"
+# set -l bg1 "#3B4252"
+# set -l bg2 "#434C5E"
+# set -l bg3 "#4C566A"
+# set -l fg1 "#86BBD8"
+# set -l accent1 "#06969A"
+# set -l accent2 "#33658A" 

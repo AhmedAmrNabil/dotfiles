@@ -35,7 +35,7 @@ function fish_prompt
     test $status = 0; and set retc $text_color
     echo " "
     echo -n (set_color $bg1)"░▒▓"
-    echo -n (set_color $text_color --background $bg1)"  "
+    echo -n (set_color $text_color --background $bg1)" 󰣇 "
     echo -n (set_color $bg1 --background $bg2)""
     echo -n (set_color $text_color) (prompt_pwd)" "
     echo -n (set_color $bg2 --background $bg3)""
@@ -44,7 +44,7 @@ function fish_prompt
     echo -n (set_color $icon_color)(get_language)
     echo -n (set_color $fg1 --background $accent2)""
     # echo -n (set_color $accent1 --background $accent2)""
-    echo -n (set_color $icon_color) "󱑍 "(date +%I:%M)" "
+    echo -n (set_color $icon_color) "󱑍 "(date +%I:%M' '%p)" "
     echo  (set_color $accent2 -b normal)""
     set_color $retc
     echo "❯ "
@@ -53,26 +53,29 @@ end
 function get_language
   set -l fileext ""
   for file in *.cpp
-    set -a fileext ""
+    set -a fileext " "
     break
   end
   for file in *.py
-    set -a fileext ""
+    set -a fileext " "
     break
   end
   for file in *.js
-    set -a fileext ""
+    set -a fileext " "
     break
   end
-  echo "$fileext "
+  # if test -n "$fileext"
+    # set -a fileext ""
+  # end
+  echo "$fileext"
 end
 
 function get_branch
   # minus symbol if there are no changes detected to tracked files
   # /dev/null prevents nonsensical errors when you are on directories not tracked by git.
-  if test (git status --untracked-files=no --porcelain 2> /dev/null | wc -l) -eq 0
+  # if test (git status 2> /dev/null | wc -l) -gt 0
     set branch_name (git branch --show-current 2> /dev/null)
-  end
+  # end
   
   if test "$branch_name" != ""
     echo "  $branch_name "

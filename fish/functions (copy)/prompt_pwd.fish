@@ -1,7 +1,8 @@
 function prompt_pwd
   # 
 #    set -l icons "Downloads_ Documents_󰈙 Music_ Pictures_ btngana_~ /c"
-    set -l icons "Downloads_ Documents_󰈙 Music_ Pictures_ /home/btngana_~"
+    set -l icons "Downloads_ Documents_󰈙 Music_ Pictures_ /home/btngana_/~ /mnt/c_/C: /mnt/d_/D:"
+    # set -l icons "Downloads_ Documents_󰈙 Music_ Pictures_ /home/btngana_/~"
     set tmp $PWD
     for item in (string split " " $icons)
         set -l item (string split "_" $item)
@@ -12,12 +13,18 @@ function prompt_pwd
 
     if [ "$tmp[2]" = "c" ]
         set tmp[2] "C:"
-        set -e tmp[1]
+        # set -e tmp[2]
+        # set -e tmp[1]
     else if [ "$tmp[2]" = "d" ]
         set tmp[2] "D:"
-        set -e tmp[1]
+        # set -e tmp[1]
     end
-    echo $tmp[-1]
+
+    if test -z "$tmp[-1]"
+        echo "/"
+    else
+        echo $tmp[-1]
+    end
 #
 #    if test (count $tmp) -gt 3
 #        echo -n "…/"
