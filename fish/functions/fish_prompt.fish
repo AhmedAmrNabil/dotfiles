@@ -15,7 +15,7 @@ end
 
 
 
-function fish_promptd
+function fish_prompt
     if test $status -eq 0
         set retc magenta
     else
