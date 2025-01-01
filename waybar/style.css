@@ -175,3 +175,10 @@ tooltip {
 #pulseaudio-slider {
   min-width: 100px;
 } */
+
+#cava {
+  background-color: #1e1e2e;
+  border-radius: 10000px;
+  padding: 0 10px 0 18px;
+  margin: 0px 10;
+}
