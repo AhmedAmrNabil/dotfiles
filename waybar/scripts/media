@@ -41,7 +41,6 @@ function info() {
             playerctl metadata -p $player --format "{ \"text\":\"$(title)\",\"alt\":\"{{playerName}}\" }"
         else
             echo "{ \"text\":\"Nothing Playing\",\"alt\":\"defualt\" }"
-            break
         fi
     done
 

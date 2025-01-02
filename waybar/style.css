@@ -3,9 +3,9 @@
 @define-color backgroundcolor #1e1e2e;
 
 * {
-  font-family: "JetBrainsMono Nerd Font";
+  font-family: "Noto Sans", "JetBrainsMono Nerd Font";
   font-weight: 600;
-  font-size: 14px;
+  font-size: 16px;
   min-height: 0;
 }
 

@@ -4,54 +4,44 @@
 @define-color text  #cdd6f4;
 
 * {
-  font-family: "JetbrainsMono Nerd Font", monospace;
-  font-size: 14px;
+  font-family: "Noto Sans", monospace;
+  font-weight: 600;
+  font-size: 16px;
 }
 
 window {
-  border-radius: 12px;
+  border-radius: 34px;
   margin: 2px;
   opacity: 0.9;
   background-color: @backgroundcolor;
   border: 2px solid @textcolor;
 }
 
-#input {
-  border: none;
-  background-color: #1e1e2e;
-  color: @bgcolor;
-}
-
-#input image {
-  margin: 0px;
-  padding: 0px;
-  margin-right: 10px;
-  border: none;
-  background-color: #1e1e2e;
-  outline: none;
-  color: @text;
-}
-
-#inner-box {
-  margin-top: 8px;
-  border-radius: 8px;
-  /* border: 10px solid #1e1e2e; */
-  /* background-color: #1e1e2e; */
-  /* border-radius: 12px; */
-  font-size: 14px;
-  font: "JetBrainsMono Nerd Font";
-}
-
 #outer-box {
   margin: 2px;
   padding: 8px;
-  border-radius: 12px;
+  border-radius: 34px;
   background-color: #1e1e2e;
 }
 
-#scroll {
-  margin: 0px;
+#input {
   border: none;
+  background-color: #313244;
+  border-radius: 1000px;
+  padding: 6px;
+  color: @bgcolor;
+}
+
+#input * {
+  padding: 4px;
+  margin: 4px;
+}
+
+#scroll {
+  border-radius: 28px;
+  margin-top: 8px;
+  border: none;
+  /* background-color: red; */
 }
 
 #text:selected {
@@ -63,15 +53,14 @@ window {
 }
 
 #entry {
-  border: none;
-  border-radius: 8px;
+  /* border: 1px solid green; */
+  border-radius: 8000px;
   padding: 4px;
-  margin: 4px 0px;
   background-color: transparent;
 }
 
 #entry image {
-  margin-right: 10px;
+  margin: 4px;
 }
 
 #entry:selected {
