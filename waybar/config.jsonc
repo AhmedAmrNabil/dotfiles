@@ -29,7 +29,24 @@
   ],
   "clock": {
     "format": "{:%I:%M %p}",
-    "tooltip-format": "{:%A  %d/%m/%y}"
+    "format-alt": "{:%A, %B %d, %Y %I:%M %p}",
+    "tooltip-format": "<tt><small>{calendar}</small></tt>",
+    "calendar": {
+      "mode": "monthly",
+      "mode-mon-col": 3,
+      "weeks-pos": "left",
+      "on-scroll": 1,
+      "format": {
+        "months": "<span color='#f5e0dc'><b>{}</b></span>",
+        "days": "<span color='#f5c2e7'><b>{}</b></span>",
+        "weeks": "<span color='#89dceb'><b>W{}</b></span>",
+        "weekdays": "<span color='#fab387'><b>{}</b></span>",
+        "today": "<span color='#f38ba8'><b>{}</b></span>"
+      }
+    },
+    "actions": {
+      "on-click-right": "mode"
+    }
   },
 
   "hyprland/window": {
@@ -109,9 +126,9 @@
   },
 
   "pulseaudio": {
-    "format": "{icon}  {volume}%",
+    "format": "{icon}   {volume}%",
     "tooltip": false,
-    "format-muted": " Muted",
+    "format-muted": "  Muted",
     "on-click": "~/.config/waybar/scripts/volume --toggle",
     "on-click-right": "pavucontrol",
     "on-scroll-up": "~/.config/waybar/scripts/volume --inc",
@@ -143,8 +160,8 @@
     // "interface": "wlp2*", // (Optional) To force the use of this interface
     "format-wifi": "  {signalStrength}%",
     // "format-ethernet": "{ipaddr}/{cidr}",
-    "format-ethernet": "󰈀",
-    // "format-ethernet": "󰈀 {ifname}",
+    "format-ethernet": "",
+    // "format-ethernet": " {ifname}",
     "tooltip-format": "{essid} - {ifname} via {gwaddr}",
     "format-linked": "{ifname} (No IP)",
     "format-disconnected": "Disconnected ⚠",
@@ -167,7 +184,8 @@
     "on-click": "exec spotify"
   },
   "custom/spotify-prev": {
-    "format": "󰒮",
+    // "format": "",
+    "format": "",
     "on-click": "$HOME/.config/waybar/scripts/media prev"
   },
   "custom/spotify-toggle": {
@@ -176,7 +194,8 @@
     "on-click": "$HOME/.config/waybar/scripts/media toggle"
   },
   "custom/spotify-next": {
-    "format": "󰒭",
+    // "format": "",
+    "format": "",
     "on-click": "$HOME/.config/waybar/scripts/media next"
   },
 

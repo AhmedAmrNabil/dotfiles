@@ -47,9 +47,10 @@ function info() {
 }
 
 function icon() {
-    [[ has_player && "$status" = "Playing" ]] && echo "󰏤" || echo "󰐊"
+    # [[ has_player && "$status" = "Playing" ]] && echo "󰏤" || echo "󰐊"
+    [[ has_player && "$status" = "Playing" ]] && echo "" || echo ""
     playerctl -p $player --follow status | while read -r status; do
-        [[ has_player && "$status" = "Playing" ]] && echo "󰏤" || echo "󰐊"
+        [[ has_player && "$status" = "Playing" ]] && echo "" || echo ""
     done
 }
 

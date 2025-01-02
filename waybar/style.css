@@ -1,6 +1,6 @@
 /* @define-color textcolor #cba6f7; */
 @define-color textcolor #74c7ec;
-@define-color backgroundcolor #1e1e2e;
+@define-color backgroundcolor rgba(30, 30, 46,0.9);
 
 * {
   font-family: "Noto Sans", "JetBrainsMono Nerd Font";
@@ -58,8 +58,8 @@ tooltip {
 }
 
 #workspaces button.urgent {
-  background: #585b70;
-  color: #cdd6f4;
+  background: rgba(249, 226, 175, 0.4);
+  color: #f9e2af;
 }
 
 #workspaces button:hover {
@@ -87,7 +87,7 @@ tooltip {
 #bluetooth,
 #network,
 #custom-brightness {
-  background-color: #1e1e2e;
+  background-color: @backgroundcolor;
   padding-right: 20px;
 }
 
@@ -100,6 +100,10 @@ tooltip {
   color: #1e1e2e;
 }
 
+#custom-spotify-prev {
+  padding: 0 16px 0 10px;
+}
+
 #custom-spotify-title {
   padding-left: 15px;
   border-top-left-radius: 10000px;
@@ -108,7 +112,7 @@ tooltip {
 }
 
 #custom-spotify-next {
-  padding-right: 15px;
+  padding-right: 22px;
   border-top-right-radius: 10000px;
   border-bottom-right-radius: 10000px;
 }
@@ -122,13 +126,13 @@ tooltip {
 }
 
 #custom-power_btn:hover {
-  background-color: #2e2e4e;
+  background-color: rgba(46, 46, 78, 0.9);
 }
 
 #taskbar {
-  background-color: #1e1e2e;
   border-radius: 10000px;
   margin-left: 10px;
+  background-color: @backgroundcolor;
 }
 
 #taskbar button {
@@ -177,7 +181,7 @@ tooltip {
 } */
 
 #cava {
-  background-color: #1e1e2e;
+  background-color: @backgroundcolor;
   border-radius: 10000px;
   padding: 0 10px 0 18px;
   margin: 0px 10;
