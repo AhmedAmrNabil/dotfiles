@@ -1,7 +1,0 @@
-game:
-  exe: /run/media/btngana/Extra Games/Games/Assassin's Creed - Odyssey/ACOdyssey.exe
-system: {}
-wine:
-  esync: false
-  fsync: false
-  version: Proton - Experimental
