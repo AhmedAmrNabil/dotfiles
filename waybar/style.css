@@ -86,9 +86,14 @@ tooltip {
 #pulseaudio,
 #bluetooth,
 #network,
-#custom-brightness {
-  background-color: @backgroundcolor;
+#custom-brightness,
+#language {
   padding-right: 20px;
+  background-color: @backgroundcolor;
+}
+
+#language {
+  min-width: 22px;
 }
 
 #custom-spotify-title,
@@ -181,8 +186,8 @@ tooltip {
 } */
 
 #cava {
-  background-color: @backgroundcolor;
   border-radius: 10000px;
   padding: 0 10px 0 18px;
-  margin: 0px 10;
+  margin: 0 10px;
+  background-color: @backgroundcolor;
 }
