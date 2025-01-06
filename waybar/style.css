@@ -28,12 +28,14 @@ tooltip {
   color: #cdd6f4;
 }
 
+#workspaces {
+  border-radius: 10000px;
+  background-color: @backgroundcolor;
+}
+
 #workspaces button {
   /* padding: 4px; */
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding: 0 5px;
   color: #313244;
   margin: 5px 5px 5px 0px;
   border-radius: 10000px;
@@ -41,11 +43,6 @@ tooltip {
 
 #workspaces button:nth-child(1) {
   margin-left: 5px;
-}
-
-#workspaces {
-  background-color: @backgroundcolor;
-  border-radius: 10000px;
 }
 
 #workspaces button.active {
@@ -124,8 +121,8 @@ tooltip {
 
 #custom-power_btn {
   border-radius: 10000px;
-  padding-left: 12px;
-  padding-right: 16px;
+  padding-left: 11px;
+  padding-right: 14px;
   margin-right: 2px;
   background-color: @backgroundcolor;
 }
@@ -187,7 +184,7 @@ tooltip {
 
 #cava {
   border-radius: 10000px;
-  padding: 0 10px 0 18px;
+  padding: 0 10px 0 20px;
   margin: 0 10px;
   background-color: @backgroundcolor;
 }

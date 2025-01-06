@@ -5,9 +5,9 @@ if status is-interactive
     export "MICRO_TRUECOLOR=1"
     export "EDITOR=micro"
     zoxide init --cmd cd fish | source
-    # if uwsm check may-start && uwsm select
-        # exec systemd-cat -t uwsm_start uwsm start default
-    # end
+    if uwsm check may-start && uwsm select
+        exec systemd-cat -t uwsm_start uwsm start default
+    end
 end
 
 function fish_user_key_bindings

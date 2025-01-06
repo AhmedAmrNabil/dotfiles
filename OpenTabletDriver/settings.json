@@ -619,14 +619,48 @@
           }
         ],
         "AuxButtons": [
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.KeyBinding",
+            "Settings": [
+              {
+                "Property": "Key",
+                "Value": "Q"
+              }
+            ],
+            "Enable": true
+          },
           null,
           null,
           null,
           null,
           null,
           null,
-          null,
-          null
+          {
+            "Path": "monitor_toggle.monitor_toggle_binding",
+            "Settings": [
+              {
+                "Property": "mode",
+                "Value": "Toggle"
+              },
+              {
+                "Property": "offset_x",
+                "Value": "-1760"
+              },
+              {
+                "Property": "offset_y",
+                "Value": "90"
+              },
+              {
+                "Property": "width_multiplier",
+                "Value": "0.83333333"
+              },
+              {
+                "Property": "height_multiplier",
+                "Value": "0.83333333"
+              }
+            ],
+            "Enable": true
+          }
         ],
         "MouseButtons": [],
         "MouseScrollUp": null,

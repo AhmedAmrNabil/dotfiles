@@ -1,11 +1,11 @@
 {
   "layer": "top",
-  "position": "bottom",
+  "position": "top",
   "mod": "dock",
-  "margin-bottom": 10,
+  // "margin-bottom": 10,
   "margin-left": 10,
   "margin-right": 10,
-  // "margin-top": 10,
+  "margin-top": 10,
 
   "exclusive": true,
   "passthrough": false,
@@ -35,7 +35,7 @@
     "format-alt": "{:%A, %B %d, %Y %I:%M %p}",
     "tooltip-format": "<tt><small>{calendar}</small></tt>",
     "calendar": {
-      "mode": "monthly",
+      "mode": "month",
       "mode-mon-col": 3,
       "weeks-pos": "left",
       "on-scroll": 1,
@@ -53,7 +53,7 @@
   },
 
   "hyprland/window": {
-    "format": "{}",
+    "format": "{initialTitle}",
 
     "max-length": 50
   },
@@ -61,13 +61,21 @@
   "hyprland/language": {
     "format": "{}",
     "format-en": "EN",
-    "format-ar": "AR"
+    "format-ar": "AR",
+    "keyboard-name": "semitek-usb-hid-gaming-keyboard",
+    "on-click": "hyprctl switchxkblayout semitek-usb-hid-gaming-keyboard next"
   },
 
   "hyprland/workspaces": {
     "disable-scroll": true,
-    "all-outputs": true,
+    // "all-outputs": true,
     "on-click": "activate",
+    "format": "<span>{icon}</span>",
+    "format-icons": {
+      "active": "",
+      "urgent": "",
+      "default": ""
+    },
     "persistent_workspaces": {
       "1": [],
       "2": []
@@ -230,9 +238,9 @@
     "on-click-right": "blueman-manager",
     "format-disabled": "󰂲", // an empty format will hide the module
     "format-off": "󰂲",
-    "format-connected": " {num_connections} 󰁿 {device_battery_percentage}%",
+    "format-connected": "󰂱 {num_connections} 󰥉 {device_battery_percentage}%",
     "tooltip-format": "{device_alias}",
-    "tooltip-format-connected": " {device_enumerate}",
+    "tooltip-format-connected": "󰂱 {device_enumerate}",
     "tooltip-format-enumerate-connected": "{device_alias}"
   },
   "cava": {
